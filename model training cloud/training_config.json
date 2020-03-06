@@ -1,0 +1,8 @@
+{
+    "embeddings_dictionary_size": 100000,
+    "embeddings_vector_size": 25,
+    "padding_size": 20,
+    "batch_size": 100,
+    "embeddings_path": "https://ieor4577-hw6.s3.amazonaws.com/glove.twitter.27B.25d.txt",
+    "input_tensor_name": "embedding_input"
+}
